@@ -3,7 +3,7 @@ def roll_call_dwarves(arr)# code an argument here
   i = 0
   new_arr = []
   while i < arr.length
-    array.each_with_index (num, index)
+    array.each_with_index do |num, index|
     puts "#{num}{new_arr}"
   end
 end
