@@ -13,9 +13,9 @@ def long_planeteer_calls(arr)# code an argument here
   arr.any?{|word| word.length > 4}
 end
 
-def find_the_cheese(array)
+def find_the_cheese(arr)# code an argument here
   cheese_types = ["cheddar", "gouda", "camembert"]
-  if array.include?("cheddar")
+  if arr.include?("cheddar")
     return cheese_types[0]
   else
     return nil
