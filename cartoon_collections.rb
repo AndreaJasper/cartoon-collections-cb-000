@@ -5,7 +5,7 @@ def roll_call_dwarves(arr)# code an argument here
   while i < arr.length
     array.each_with_index (item, index)
   end
-  new_arr
+  puts new_arr
 end
 
 def summon_captain_planet# code an argument here
