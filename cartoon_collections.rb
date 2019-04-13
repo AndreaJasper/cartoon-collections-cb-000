@@ -3,8 +3,8 @@ def roll_call_dwarves(arr)# code an argument here
   i = 0
   new_arr
   while i < arr.length
-    
-    
+
+
   end
 end
 
