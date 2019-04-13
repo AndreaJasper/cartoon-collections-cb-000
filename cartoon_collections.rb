@@ -1,7 +1,7 @@
 def roll_call_dwarves(arr)# code an argument here
   # Your code here
   i = 0
-  new_arr = [] 
+  new_arr = []
   while i < arr.length
     array.each_with_index (item, index)
   end
